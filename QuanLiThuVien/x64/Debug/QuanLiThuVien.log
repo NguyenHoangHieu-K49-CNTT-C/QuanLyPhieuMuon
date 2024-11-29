@@ -1,0 +1,10 @@
+﻿  DanhSachPhieuMuon.cpp
+  Header.cpp
+D:\---Học Tập\Lập trình\C++\Đồ Án\QuanLiThuVien1\QuanLiThuVien\Header.cpp(50,9): warning C4244: 'return': conversion from 'time_t' to 'long', possible loss of data
+D:\---Học Tập\Lập trình\C++\Đồ Án\QuanLiThuVien1\QuanLiThuVien\Header.cpp(67,15): warning C4244: 'return': conversion from 'time_t' to 'long', possible loss of data
+  LinkedList.cpp
+  Main.cpp
+  Node.cpp
+  PhieuMuon.cpp
+  Generating Code...
+  QuanLiThuVien.vcxproj -> D:\---Học Tập\Lập trình\C++\Đồ Án\QuanLiThuVien1\x64\Debug\QuanLiThuVien.exe
